@@ -19,3 +19,4 @@ Sou desenvolvedor freelancer com foco em soluções web e automações personali
 [![](https://visitcount.itsvg.in/api?id=gvbast0s&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gubastos500&unique={true|1|on|yes})
