@@ -12,9 +12,6 @@ Sou desenvolvedor freelancer com foco em soluções web e automações personali
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gvbast0s&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gvbast0s&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
