@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou desenvolvedor freelancer com foco em soluções web e automações personalizadas. Tenho experiência em projetos sob demanda, criação de MVPs, sites institucionais e scripts para servidores FiveM. Busco sempre entregar soluções funcionais, bem organizadas e dentro do prazo.
+Sou Gustavo Bastos, programador apaixonado por tecnologia e inovação. Atuo como freelancer atualmente, desenvolvendo soluções sob medida para empresas e profissionais de diversos segmentos.
 
 
 # 💻 Tech Stack:
