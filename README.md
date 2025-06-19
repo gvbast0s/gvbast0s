@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Gustavo Bastos, programador apaixonado por tecnologia e inovação. Atuo como freelancer atualmente, desenvolvendo soluções sob medida para empresas e profissionais de diversos segmentos.
+Me chamo Gustavo Bastos, programador apaixonado por tecnologia e inovação. Atuo como freelancer atualmente, desenvolvendo soluções sob medida para empresas e profissionais de diversos segmentos. Além disso desenvolvo scripts para fivem utilizando lua.
 
 
 # 💻 Tech Stack:
